@@ -1,2 +1,2 @@
 # RF5.HisaCat.Lib.TextHelper
-RF5 Library for get texts from game defined ID for MOD
+It introduce (and memo for myself) ways to get localized texts from game defined IDs for RF5 MOD developers.
